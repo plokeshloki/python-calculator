@@ -1,2 +1,2 @@
-# python-calculator
-“A simple calculator built using Python performing basic operations”
+Simple Interest Calculator using Python
+“A simple Intrest calculator built using Python performing basic operations”
